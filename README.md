@@ -1,1 +1,1 @@
-Deze json wordt gebruikt om via PowerAutomate data te ontvangen van LeadInfo propects > doel civicrm
+Deze repository wordt gebruikt om via PowerAutomate data te ontvangen van LeadInfo propects in json formaat > doel civicrm
